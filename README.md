@@ -75,3 +75,6 @@ To apply real changes, edit the script and uncomment the lines marked with `# â”
 ## Disclaimer
 
 This script modifies product prices. Test thoroughly in dry-run mode before applying changes. Ensure you have backups and understand the impact on your store.
+
+Let me know if it saves you time/money ðŸ˜„
+Cheers!
